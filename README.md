@@ -1,2 +1,2 @@
-# Comp_Sci_S1
-the work from semester 1, just to look at
+# TPoole22
+Mr. Poole's 2021-2022 Textbook for Computer Science
